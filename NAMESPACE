@@ -2,5 +2,10 @@
 
 export(get_all)
 export(open)
+export(plot_map)
+import(ggplot2)
 import(jsonlite)
+import(maps)
 import(reticulate)
+import(scales)
+import(utils)

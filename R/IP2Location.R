@@ -1,11 +1,11 @@
 #' @title Load IP2Location BIN data
 #'
-#' @description Load the IP2Locaiton BIN data for lookup. Free IP2Location LITE data available for download at <https://lite.ip2location.com/>
+#' @description Load the IP2Location BIN data for lookup. Free IP2Location LITE data available for download at <https://lite.ip2location.com/>
 #' @param bin_location Absolute path of IP2Location BIN data
 #' @return NULL
 #' @import reticulate
 #' @export
-#' @examples \donttest{
+#' @examples \dontrun{
 #' open("~/IP-COUNTRY.BIN")
 #' }
 #'
@@ -25,7 +25,7 @@ open <- function(bin_location){
 #' @import reticulate
 #' @import jsonlite
 #' @export
-#' @examples \donttest{
+#' @examples \dontrun{
 #' get_all("8.8.8.8")
 #' }
 #'
