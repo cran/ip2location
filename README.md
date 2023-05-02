@@ -1,6 +1,6 @@
 # Description
 
-Enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather station code, weather station name, mobile, usage type, address type and IAB category that any IP address or hostname originates from.
+Enables the user to find the country, region, district, city, coordinates, zip code, ISP, domain name, timezone, connection speed, IDD code, area code, weather station code, weather station name, mobile, usage type, address type, IAB category and ASN that any IP address or hostname originates from.
 
 # Installation
 
@@ -83,6 +83,15 @@ $address_type
 
 $category
 [1] "IAB19"
+
+$district
+[1] "San Diego County"
+
+$asn
+[1] "15169"
+
+$as_name
+[1] "Google LLC"
 ```
 2 Call the open() and plot_map() function to plot IP addresses on the map
 ```

@@ -1,10 +1,10 @@
-19ed5d6f13e9f3cc56d9197b9c510d33 *DESCRIPTION
+e85c8fb8310db8871349c279f03d2c2c *DESCRIPTION
 50ca115fe5eea7180c49a94d26fc1588 *LICENSE
 2b309cf00dac732e18aafd522fec90c6 *NAMESPACE
-c94ce34576927f8355a54404977801c1 *R/IP2Location.R
+9af3773980714861e07612bbddcebafb *R/IP2Location.R
 301f39c5adb94f1c0755187a03f3b04a *R/IP2Location_plotmap.R
-ee5d87c39d2faf7d57300aaa12067784 *README.md
+6098162b2d0a693210465fdc83a74ad2 *README.md
 d65174c2b6edff0faa1014d9d1b11452 *inst/countrynames_mapping.txt
-62ce207804110c4ca334e1289e1e9ae2 *man/get_all.Rd
+acf6cff968ffe6ca3e3f28bc731d7324 *man/get_all.Rd
 2ffcbf72a1a761c1ced578839b41c728 *man/open.Rd
 4d2ed6ca8c8b13da7ae4e3bd11a1b07d *man/plot_map.Rd
